@@ -10,11 +10,11 @@ Each numbered file covers one official exam domain. The files are numbered in **
 
 | File | Exam domain | Weight |
 |---|---|---|
-| `1.md` | Implement generative AI and agentic solutions | 30–35% |
-| `2.md` | Plan and manage an Azure AI solution | 25–30% |
-| `3.md` | Implement information extraction solutions | 10–15% |
-| `4.md` | Implement text analysis solutions (speech is a **subsection inside** this domain, not its own) | 10–15% |
-| `5.md` | Implement computer vision solutions | 10–15% |
+| `1-ai-103-study-guide-for-generative-ai-and-agentic-solutions.md` | Implement generative AI and agentic solutions | 30–35% |
+| `2-ai-103-study-guide-for-planning-and-managing-an-azure-ai-solution.md` | Plan and manage an Azure AI solution | 25–30% |
+| `3-ai-103-study-guide-for-implementing-information-extraction-solutions.md` | Implement information extraction solutions | 10–15% |
+| `4-ai-103-study-guide-for-text-analysis-and-speech.md` | Implement text analysis solutions (speech is a **subsection inside** this domain, not its own) | 10–15% |
+| `5-ai-103-study-guide-for-implementing-computer-vision-solutions.md` | Implement computer vision solutions | 10–15% |
 
 `README.md` documents the guide set, weighting, and high-leverage facts.
 
