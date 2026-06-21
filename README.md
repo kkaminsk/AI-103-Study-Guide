@@ -43,6 +43,30 @@ These guides make specific, drift-prone claims about Foundry, Azure AI Search, d
 
 Each guide links its key services to the relevant Microsoft Learn pages, both inline on first mention and in a **"Further reading"** section at the end. The links target the current docs (new Microsoft Foundry under `azure/foundry`, the individual "Foundry Tools" services under `azure/ai-services`), and were verified live in June 2026.
 
+## Slide decks
+
+A companion slide deck accompanies each guide, in the [`Slides/`](Slides/) folder. Each deck is also linked from a note near the top of its matching guide.
+
+| # | Guide | Slide deck |
+|---|---|---|
+| 1 | [Generative AI and agentic solutions](1-ai-103-study-guide-for-generative-ai-and-agentic-solutions.md) | [`1-AI-103_Agent_Engineering.pptx`](Slides/1-AI-103_Agent_Engineering.pptx) |
+| 2 | [Plan and manage an Azure AI solution](2-ai-103-study-guide-for-planning-and-managing-an-azure-ai-solution.md) | [`2-Azure_AI-103_Architectural_Blueprint.pptx`](Slides/2-Azure_AI-103_Architectural_Blueprint.pptx) |
+| 3 | [Information extraction solutions](3-ai-103-study-guide-for-implementing-information-extraction-solutions.md) | [`3-Architecting_Information_Extraction.pptx`](Slides/3-Architecting_Information_Extraction.pptx) |
+| 4 | [Text analysis and speech](4-ai-103-study-guide-for-text-analysis-and-speech.md) | [`4-Architecting_Azure_AI-103.pptx`](Slides/4-Architecting_Azure_AI-103.pptx) |
+| 5 | [Computer vision solutions](5-ai-103-study-guide-for-implementing-computer-vision-solutions.md) | [`5-AI-103_Computer_Vision_Mastery.pptx`](Slides/5-AI-103_Computer_Vision_Mastery.pptx) |
+
+## Podcast episodes
+
+A companion audio deep-dive accompanies each guide, hosted on Azure Storage. Each episode is also linked from a note near the top of its matching guide.
+
+| # | Guide | Podcast episode |
+|---|---|---|
+| 1 | [Generative AI and agentic solutions](1-ai-103-study-guide-for-generative-ai-and-agentic-solutions.md) | [The Microsoft AI-103 Agent Blueprint](https://stbighatpodcasts.blob.core.windows.net/podcasts/1-The_Microsoft_AI_103_agent_blueprint.m4a) |
+| 2 | [Plan and manage an Azure AI solution](2-ai-103-study-guide-for-planning-and-managing-an-azure-ai-solution.md) | [Azure AI Foundry Enterprise Architecture Playbook](https://stbighatpodcasts.blob.core.windows.net/podcasts/2-Azure_AI_Foundry_Enterprise_Architecture_Playbook.m4a) |
+| 3 | [Information extraction solutions](3-ai-103-study-guide-for-implementing-information-extraction-solutions.md) | [Azure AI Extraction and Search Architecture](https://stbighatpodcasts.blob.core.windows.net/podcasts/3-Azure_AI_Extraction_and_Search_Architecture.m4a) |
+| 4 | [Text analysis and speech](4-ai-103-study-guide-for-text-analysis-and-speech.md) | [Microsoft Is Killing Legacy Azure AI](https://stbighatpodcasts.blob.core.windows.net/podcasts/4-Microsoft_is_killing_legacy_Azure_AI.m4a) |
+| 5 | [Computer vision solutions](5-ai-103-study-guide-for-implementing-computer-vision-solutions.md) | [Azure Vision Architecture for AI-103](https://stbighatpodcasts.blob.core.windows.net/podcasts/5-Azure_Vision_Architecture_for_AI-103.m4a) |
+
 ## Further reading
 
 - [Exam AI-103 study guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-103)
