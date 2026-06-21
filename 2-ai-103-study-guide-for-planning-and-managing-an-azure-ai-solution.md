@@ -1,5 +1,7 @@
 # AI-103 Study Guide for Planning and Managing an Azure AI Solution
 
+> **Slide deck:** A companion presentation for this guide is available at [`Slides/2-Azure_AI-103_Architectural_Blueprint.pptx`](Slides/2-Azure_AI-103_Architectural_Blueprint.pptx).
+
 ## Scope and exam framing
 
 This guide covers the **“Plan and manage an Azure AI solution”** domain of AI-103, which Microsoft lists at **25–30%** of the exam. The official skills outline for this domain includes model and service selection, retrieval and indexing, Foundry setup and deployment, CI/CD integration, monitoring and security, and responsible AI governance for generative AI and agentic systems. Microsoft also notes that **most exam questions target generally available features**, but **preview features can appear if they are commonly used**, which matters because several Foundry capabilities in this area are still preview.

@@ -1,5 +1,7 @@
 # AI-103 Study Guide for Text Analysis and Speech
 
+> **Slide deck:** A companion presentation for this guide is available at [`Slides/4-Architecting_Azure_AI-103.pptx`](Slides/4-Architecting_Azure_AI-103.pptx).
+
 ## Exam context and how to use this guide
 
 As of June 2026, AI-103 is the **[Microsoft Certified: Azure AI Apps and Agents Developer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-apps-and-agents-developer-associate/) (beta)** exam. Microsoft describes it as an intermediate certification for Azure AI engineers and developers who build, manage, and deploy agents and AI solutions by using Python and Microsoft Foundry. The certification page also notes that the exam is still in beta, and the practice assessment is not yet available while the exam remains in beta.
